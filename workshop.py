@@ -1,5 +1,5 @@
 import time
-import pyautogui
+import pyautogui    # Use, pip install pyautogui - if module is not previously installed
 import webbrowser as wb
 
 contact = ['1234567890', '222222222']  # List of contacts to whom you want to send message
